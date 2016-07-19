@@ -1,4 +1,4 @@
-A simple test project using my own custom ImageDownloader library for MindValley
+A simple test project using my own custom ImageDownloader library 
 
 To use the ImageDownloader:
 
